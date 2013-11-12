@@ -1,0 +1,7 @@
+Forked from ConSol Labs. You can checkout the original scripts by view the link http://labs.consol.de/lang/en/nagios
+1. check_mysql_health
+2. check_oracle_health
+3. check_mssql_health
+4. check_db2_health
+
+=============================================================================

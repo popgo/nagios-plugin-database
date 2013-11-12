@@ -1,0 +1,11 @@
+Nagios plugin (script) to check the RDBMS database metrics, like mysql, oracle and etc..
+
+Installation
+
+In your Nagios plugins directory run
+
+git clone git://github.com/popgo/nagios-plugin-database.git
+
+
+Usage
+Install in Nagios/Centreon
